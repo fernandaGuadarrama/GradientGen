@@ -62,9 +62,10 @@ class GradientGen extends React.Component{
                 <Grid container alignItems="center" justify= 'center'>
                     <Button className='gradientBackGreenBlue'
                     onClick={this.createRandomGradient}
-                    style={{fontWeight: 'bold', fontSize: "12px", color: 'white', backgroundColor: 'rgb(128, 182, 70)', borderRadius: '20px', width: '100%', marginBottom: "40%"}}>Generate Gradient</Button>
+                     style={{fontWeight: 'bold', fontSize: "12px", color: 'white', backgroundColor: 'rgb(128, 182, 70)', borderRadius: '20px', width: '100%', marginBottom: "40%"}}>Generate Gradient</Button>
                 </Grid>
             </Grid>
+           
                 </Grid>
                 </Grid>
                 </Box>
